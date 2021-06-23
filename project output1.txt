@@ -1,0 +1,8 @@
+Enter the city name: Kottayam
+-------------------------------------------------------------
+Weather Stats for - KOTTAYAM  || 23 Jun 2021 | 11:18:04 AM
+-------------------------------------------------------------
+Current temperature is: 29.01 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 76 %
+Current wind speed    : 3.28 kmph
